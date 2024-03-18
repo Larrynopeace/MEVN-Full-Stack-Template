@@ -1,1 +1,1 @@
-﻿# MEVN-Full-Stack-Template
+﻿# INFO310 MEVN-Full-Stack-Template
